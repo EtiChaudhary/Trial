@@ -2,4 +2,4 @@ Text Line 1
 Text Line 2
 Text Line 3
 New Line 1
-
+This line is added inside branch two
